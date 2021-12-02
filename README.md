@@ -2,7 +2,7 @@
 Solutions to Advent of Code 2021
 
 ###### Current Progress:
-| Score | Stars |
-|-------|-------|
-| 0     | 2     |
+| Day | Stars | Problem | Score |
+|-----|-------|----------|-------|
+| 1   | ⭐⭐   | Sonar Sweep|0     |
 

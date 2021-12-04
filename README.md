@@ -2,11 +2,12 @@
 Solutions to Advent of Code 2021
 
 ### <strong>Current Progress:</strong>
-| Day | Stars | Problem     | Time                                 | Score | Place |
-|-----|-------|-------------|--------------------------------------|-------|-------|
-| 1   | ⭐⭐    | Sonar Sweep | Part 1: 21:38:40<br>Part 2: 21:47:40 | 0     | Part 1: 102816<br>Part 2: 91589 |
-| 2   | ⭐⭐    | Dive        | Part 1: 05:59:50<br>Part 2: 06:02:41 | 0     | Part 1: 48936<br>Part 2: 45569 |
-| 3   | ⭐⭐   | Binary Diagnostic| Part 1: 06:10:46<br>Part 2: 22:56:57 | 0    | Part 1: 46460<br>Part 2: 67435 |
+| Day | Stars | Problem     | Score | Place |
+|-----|-------|-------------|-------|-------|
+| 1   | ⭐⭐    | Sonar Sweep | 0     | Part 1: 102816<br>Part 2: 91589 |
+| 2   | ⭐⭐    | Dive        | 0     | Part 1: 48936<br>Part 2: 45569 |
+| 3   | ⭐⭐   | Binary Diagnostic | 0    | Part 1: 46460<br>Part 2: 67435 |
+| 4   | ⭐⭐   | Giant Squid | 0    | Part 1: 7367<br>Part 2: 6308 |
 
 ### <strong>A few definitions:</strong>
 <strong>Stars:</strong> You get one star for every 'part' of a problem completed correctly; 2 per day.<br>

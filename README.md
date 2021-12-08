@@ -10,6 +10,7 @@ Solutions to Advent of Code 2021
 | 4   | ⭐⭐   | Giant Squid | 0    | Part 1: 7367<br>Part 2: 6308 |
 | 5   | ⭐⭐   | Hydrothermal Venture | 0    | Part 1: 4403<br>Part 2: 4380 |
 | 6   | ⭐⭐   | Lanternfish | 0    | Part 1: 57209<br>Part 2: 51643 |
+| 7   | ⭐⭐   | The Treachery of Whales | 0    | Part 1: 56700<br>Part 2: 55196 |
 
 ### <strong>A few definitions:</strong>
 <strong>Stars:</strong> You get one star for every 'part' of a problem completed correctly; 2 per day.<br>
